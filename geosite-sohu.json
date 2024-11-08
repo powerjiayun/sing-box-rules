@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "focus-img.cn",
+                "focus.cn",
+                "itc.cn",
+                "sohu.com",
+                "sohucs.com"
+            ],
+            "domain_suffix": [
+                ".focus-img.cn",
+                ".focus.cn",
+                ".itc.cn",
+                ".sohu.com",
+                ".sohucs.com"
+            ]
+        }
+    ]
+}
